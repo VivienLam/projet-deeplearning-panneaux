@@ -1,0 +1,17 @@
+# Donnees et archives lourdes (ne pas pousser sur Git)
+data/
+*.zip
+*.npz
+*.tar.gz
+
+# Fichiers caches Python et Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environnements et editeurs
+.vscode/
+.idea/
+venv/
+env/
+.env
