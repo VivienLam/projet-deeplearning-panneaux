@@ -1,8 +1,13 @@
-# Donnees et archives lourdes (ne pas pousser sur Git)
+# Donnees et archives lourdes
 data/
 *.zip
 *.npz
 *.tar.gz
+
+# Fichiers scripts locaux et autres sujets non partages
+download_data.py
+prepare_dataset.py
+Projet_DL_Expressions_faciales (1).pdf
 
 # Fichiers caches Python et Jupyter
 __pycache__/
