@@ -1,0 +1,60 @@
+indice_image,classe_reelle,classe_predite,score_softmax
+362,Limitation 100 km/h,Limitation 60 km/h,0.95226705
+479,Limitation 30 km/h,Passage enfants,0.89659727
+511,Succession de virages,Cyclistes,0.8149201
+540,Fin interdiction depassement camions,Limitation 100 km/h,0.9881095
+685,Limitation 120 km/h,Travaux,0.99226534
+839,Limitation 70 km/h,Limitation 80 km/h,0.9713802
+923,Cyclistes,Passage enfants,0.7701534
+1052,Feux tricolores,Priorite intersection,0.99132687
+1150,Limitation 80 km/h,Limitation 60 km/h,0.4315787
+1205,Passage pietons,Priorite intersection,0.99854386
+1222,Danger general,Priorite intersection,0.8283112
+1232,Limitation 70 km/h,Limitation 120 km/h,0.5423015
+1412,Limitation 60 km/h,Limitation 80 km/h,0.99429154
+1435,Limitation 50 km/h,Limitation 30 km/h,0.49617615
+1821,Virage dangereux droite,Feux tricolores,0.48222375
+1934,Danger general,Feux tricolores,0.54703045
+2018,Passage enfants,Depassement interdit camions,0.9174538
+2212,Priorite intersection,Limitation 60 km/h,0.9887235
+2376,Limitation 70 km/h,Limitation 30 km/h,0.9191886
+2381,Cyclistes,Travaux,0.8294529
+2512,Travaux,Route prioritaire,0.7311264
+2754,Cedez le passage,Fin de toutes interdictions,0.363149
+2782,Circulation interdite,Feux tricolores,0.99742043
+2814,Depassement interdit camions,Depassement interdit,0.5516174
+2847,Limitation 30 km/h,Limitation 120 km/h,0.86911774
+3295,Limitation 60 km/h,Limitation 80 km/h,0.78513247
+3521,Limitation 80 km/h,Circulation interdite,0.7671265
+3617,Passage enfants,Passage pietons,0.8469974
+3620,Direction obligatoire droite,Tout droit ou droite,0.9865882
+3634,Priorite intersection,Feux tricolores,0.7678667
+3645,Priorite intersection,Danger general,0.9999782
+3709,Depassement interdit camions,Passage enfants,0.8737506
+3759,Limitation 50 km/h,Limitation 80 km/h,0.99142796
+3914,Limitation 30 km/h,Limitation 120 km/h,0.83087593
+4410,Cedez le passage,Succession de virages,0.5413575
+4627,Limitation 30 km/h,Limitation 70 km/h,0.44274548
+4826,Passage enfants,Priorite intersection,0.9729599
+4993,Limitation 60 km/h,Limitation 30 km/h,0.95081776
+5052,Limitation 100 km/h,Limitation 80 km/h,0.9916198
+5206,Limitation 80 km/h,Limitation 120 km/h,0.65927935
+5278,Limitation 80 km/h,Limitation 60 km/h,0.3525049
+5460,Limitation 80 km/h,Travaux,0.41737565
+5557,Priorite intersection,Passage enfants,0.9936185
+5634,Limitation 30 km/h,Route prioritaire,0.75504047
+5640,Succession de virages,Animaux sauvages,0.8889996
+5919,Limitation 80 km/h,Limitation 70 km/h,0.5479036
+6343,Feux tricolores,Danger general,0.9657438
+6375,Cyclistes,Travaux,0.9992507
+6454,Limitation 80 km/h,Limitation 100 km/h,0.8313538
+6537,Route prioritaire,Depassement interdit camions,0.9939885
+6725,Limitation 60 km/h,Limitation 50 km/h,0.9778161
+6772,Limitation 30 km/h,Limitation 120 km/h,0.55761087
+6930,Limitation 20 km/h,Limitation 60 km/h,1.0
+7066,Cedez le passage,Limitation 60 km/h,0.9383575
+7418,Limitation 80 km/h,Limitation 60 km/h,0.7915718
+7428,Passage enfants,Passage pietons,0.92130333
+7443,Tout droit ou droite,Direction obligatoire droite,0.621949
+7513,Limitation 80 km/h,Cyclistes,0.412998
+7711,Fin interdiction depassement,Fin limitation 80 km/h,0.39526746

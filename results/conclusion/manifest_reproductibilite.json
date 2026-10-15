@@ -1,0 +1,43 @@
+{
+    "date_utc": "2026-10-15T02:15:13.548690+00:00",
+    "python": "3.12.14",
+    "systeme": "Linux-7.0.0-34-generic-x86_64-with-glibc2.39",
+    "modeles": {
+        "MLP": {
+            "chemin": "results/mlp/model_mlp.keras",
+            "taille_octets": 4809987,
+            "sha256": "9915e9a8391484f0a221cbf85ad060e87896bd95f48cf55539dfd330c5b3f43e"
+        },
+        "CNN avec Dropout": {
+            "chemin": "results/experiences/exp2_dropout/avec_dropout/meilleur_modele.keras",
+            "taille_octets": 3879554,
+            "sha256": "89b66cd7e2dd2fb02dc54e750da690fca6ceb826a63b15209fdd63376bcb6126"
+        },
+        "YOLO": {
+            "chemin": "models/yolo/best.pt",
+            "taille_octets": 6268010,
+            "sha256": "acd17780b331c3970e22faf3c6f123eae8b8c4abcc736ad5ef38ff28ecd72fb2"
+        }
+    },
+    "bibliotheques": {
+        "numpy": "2.5.3",
+        "pandas": "3.0.5",
+        "tensorflow": "2.21.0",
+        "keras": "3.15.1",
+        "scikit-learn": "1.9.1",
+        "opencv-python": "5.0.0",
+        "ultralytics": "8.4.177",
+        "torch": "2.14.0+cpu"
+    },
+    "test_classification": {
+        "classe_reelle": 16,
+        "prediction_mlp": 16,
+        "prediction_cnn": 16
+    },
+    "test_detection": {
+        "image": "data/scenes/gtsdb_test/TestIJCNN2013Download/00001.ppm",
+        "nombre_detections": 2,
+        "seuil_confiance": 0.25,
+        "resolution": 960
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "configuration": "Avec Dropout",
+    "chemin_modele": "results/experiences/exp2_dropout/avec_dropout/meilleur_modele.keras",
+    "critere_selection": "val_loss",
+    "accuracy_validation": 99.34965372085573,
+    "val_loss": 0.0343523025512695
+}

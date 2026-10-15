@@ -1,0 +1,15 @@
+{
+    "images": 300,
+    "panneaux_reels": 476,
+    "detections_yolo": 832,
+    "vrais_positifs": 1,
+    "faux_positifs": 831,
+    "faux_negatifs": 475,
+    "classifications_correctes": 0,
+    "precision_detection": 0.001201923076923077,
+    "rappel_detection": 0.0021008403361344537,
+    "f1_detection": 0.0015290519877675841,
+    "accuracy_cnn_sur_detections_correctes": 0.0,
+    "rappel_global_yolo_cnn": 0.0,
+    "seuil_iou": 0.5
+}

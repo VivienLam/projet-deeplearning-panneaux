@@ -1,0 +1,37 @@
+{
+  "image": "00088.ppm",
+  "configuration": {
+    "seuil": 0.25,
+    "taille": 960,
+    "appareil": "cpu",
+    "classe_yolo": [
+      9
+    ]
+  },
+  "panneaux": [
+    {
+      "panneau": 1,
+      "x1": 849,
+      "y1": 408,
+      "x2": 886,
+      "y2": 447,
+      "confiance_yolo": 0.8048503994941711
+    },
+    {
+      "panneau": 2,
+      "x1": 399,
+      "y1": 427,
+      "x2": 433,
+      "y2": 461,
+      "confiance_yolo": 0.7391597628593445
+    },
+    {
+      "panneau": 3,
+      "x1": 244,
+      "y1": 480,
+      "x2": 262,
+      "y2": 491,
+      "confiance_yolo": 0.35051992535591125
+    }
+  ]
+}

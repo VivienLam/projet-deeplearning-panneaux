@@ -1,0 +1,21 @@
+{
+  "image": "00175.ppm",
+  "configuration": {
+    "seuil": 0.25,
+    "taille": 960,
+    "appareil": "cpu",
+    "classe_yolo": [
+      9
+    ]
+  },
+  "panneaux": [
+    {
+      "panneau": 1,
+      "x1": 888,
+      "y1": 483,
+      "x2": 927,
+      "y2": 525,
+      "confiance_yolo": 0.37164872884750366
+    }
+  ]
+}

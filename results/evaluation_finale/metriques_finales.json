@@ -1,0 +1,11 @@
+{
+    "modele": "Avec Dropout",
+    "accuracy": 0.9577988915281077,
+    "loss": 0.22264190018177032,
+    "precision_macro": 0.9541867319011541,
+    "rappel_macro": 0.9317531423936884,
+    "f1_macro": 0.9381277799860495,
+    "nombre_images": 12630,
+    "predictions_correctes": 12097,
+    "predictions_incorrectes": 533
+}

@@ -1,0 +1,8 @@
+Configuration,Meilleure époque,Accuracy (%),Val loss,Chemin modèle
+Avec Dropout,15,99.34965372085573,0.0343523025512695,results/experiences/exp2_dropout/avec_dropout/meilleur_modele.keras
+Avec augmentation,14,98.95434975624084,0.0403725802898407,results/experiences/exp3_augmentation/avec_augmentation/meilleur_modele.keras
+Sans Dropout,14,99.27314519882202,0.0424762889742851,results/experiences/exp2_dropout/sans_dropout/meilleur_modele.keras
+Sans augmentation,14,99.27314519882202,0.0424762889742851,results/experiences/exp3_augmentation/sans_augmentation/meilleur_modele.keras
+CNN initial,15,99.24764037132265,0.0450213812291622,results/cnn/cnn_meilleur.keras
+LR 0.001,15,99.03085827827454,0.0591538436710834,results/experiences/exp1_learning_rate/lr_001/meilleur_modele.keras
+LR 0.0005,15,98.71206283569336,0.0643147751688957,results/experiences/exp1_learning_rate/lr_0005/meilleur_modele.keras

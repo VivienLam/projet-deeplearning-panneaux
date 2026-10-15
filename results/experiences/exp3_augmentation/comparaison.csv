@@ -1,0 +1,3 @@
+Configuration,Meilleure époque,Accuracy validation (%),Loss validation,Durée (s)
+Sans augmentation,14,99.27314519882202,0.0424762889742851,125.8519877639992
+Avec augmentation,14,98.95434975624084,0.0403725802898407,146.70739772600064

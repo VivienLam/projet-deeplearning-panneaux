@@ -1,0 +1,58 @@
+{
+    "python": "3.12.14",
+    "systeme": "Linux",
+    "version_systeme": "7.0.0-34-generic",
+    "bibliotheques": [
+        {
+            "Bibliothèque": "NumPy",
+            "Paquet": "numpy",
+            "Version": "2.5.3"
+        },
+        {
+            "Bibliothèque": "Pandas",
+            "Paquet": "pandas",
+            "Version": "3.0.5"
+        },
+        {
+            "Bibliothèque": "TensorFlow",
+            "Paquet": "tensorflow",
+            "Version": "2.21.0"
+        },
+        {
+            "Bibliothèque": "Keras",
+            "Paquet": "keras",
+            "Version": "3.15.1"
+        },
+        {
+            "Bibliothèque": "Scikit-learn",
+            "Paquet": "scikit-learn",
+            "Version": "1.9.1"
+        },
+        {
+            "Bibliothèque": "Matplotlib",
+            "Paquet": "matplotlib",
+            "Version": "3.11.2"
+        },
+        {
+            "Bibliothèque": "OpenCV",
+            "Paquet": "opencv-python",
+            "Version": "5.0.0"
+        },
+        {
+            "Bibliothèque": "Ultralytics",
+            "Paquet": "ultralytics",
+            "Version": "8.4.177"
+        },
+        {
+            "Bibliothèque": "PyTorch",
+            "Paquet": "torch",
+            "Version": "2.14.0+cpu"
+        },
+        {
+            "Bibliothèque": "Pillow",
+            "Paquet": "pillow",
+            "Version": "12.3.0"
+        }
+    ],
+    "erreurs_sauvegardees": []
+}
