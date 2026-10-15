@@ -1,8 +1,10 @@
-# Donnees et archives lourdes
-data/
+# Archives lourdes
 *.zip
 *.npz
 *.tar.gz
+
+# Donnees locales
+data/
 
 # Fichiers scripts locaux et autres sujets non partages
 download_data.py
