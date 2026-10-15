@@ -11,6 +11,7 @@ download_data.py
 prepare_dataset.py
 Projet_DL_Expressions_faciales (1).pdf
 Projet_DeepLearning_copie_locale.ipynb
+*.webm
 
 # Fichiers caches Python et Jupyter
 __pycache__/
